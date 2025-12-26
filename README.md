@@ -1,6 +1,6 @@
 # Simple Self-Driving Car Mini Project
 
-**Made by Tuba A.Khan**
+**Made by Sahil Patel**
 
 ## What does this robot do?
 This project simulates a basic self-driving robot car using computer vision. The robot:
@@ -32,3 +32,4 @@ This project simulates a basic self-driving robot car using computer vision. The
 ---
 
 This is a simple, educational project to demonstrate robotics and computer vision basics for self-driving cars.
+
